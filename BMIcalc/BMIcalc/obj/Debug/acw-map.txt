@@ -1,0 +1,4 @@
+BMIcalc.MainActivity, BMIcalc;md5b173c8dc90ac4eecde2779381e9f470d.MainActivity
+BMIcalc.MainActivity, BMIcalc, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5b173c8dc90ac4eecde2779381e9f470d.MainActivity
+BMIcalc.MainActivity;md5b173c8dc90ac4eecde2779381e9f470d.MainActivity
+bmicalc.MainActivity;md5b173c8dc90ac4eecde2779381e9f470d.MainActivity
